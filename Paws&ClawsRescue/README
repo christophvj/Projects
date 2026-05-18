@@ -1,0 +1,11 @@
+# Paws & Claws Rescue Database System
+
+This was a group project for which I served as the project leader. Our team designed a complete relational database system for an animal rescue organization named Paws & Claws Rescue.
+
+The project covered the following core database management concepts:
+
+- Advanced data modeling and relational schema design, including handling complex many-to-many relationships and entity inheritance.
+- Database normalization up to 3NF to ensure structural data integrity and eliminate redundancies.
+- Database implementation using Oracle SQL, establishing structured tables, primary/foreign key constraints, and sequences.
+- Performance tuning and optimization through the strategic creation of secondary indexes.
+- Advanced querying and reporting, utilizing complex multi-table joins, relational views, and transactional data analysis.
