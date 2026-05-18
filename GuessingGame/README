@@ -1,0 +1,38 @@
+# Word Shuffle Game (Java)
+
+A simple console-based word guessing game built in Java using a custom generic ArrayList. The player must guess a hidden word from a shuffled version within limited attempts.
+
+---
+
+## Core Features
+
+- Random word selection from a file
+- Shuffled word guessing game
+- Limited attempts (5 tries)
+- Hint system reveals letters
+- Win/loss detection
+
+---
+
+## OOP Concepts Used
+
+- **Encapsulation** – Classes like `SWChar` and `MyArrayList` manage their own data and behavior
+- **Abstraction** – Game logic is structured into clear methods inside `StartGame`
+- **Objects & Classes** – Multiple interacting classes represent game components
+- **Reusability** – Custom `MyArrayList` works as a reusable data structure
+
+---
+
+## Key Classes
+
+- **StartGame** – Handles game flow and logic
+- **MyArrayList** – Custom generic array list implementation
+- **SWChar** – Represents each character with a guessed state
+
+---
+
+## How to Run
+
+```bash
+javac *.java
+java StartGame
