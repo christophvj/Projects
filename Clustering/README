@@ -1,0 +1,90 @@
+# K-Means Clustering Projects
+
+This folder contains two Python-based machine learning examples demonstrating **K-Means clustering** using synthetic datasets. Both projects focus on generating data, applying clustering algorithms, and visualising results to understand how unsupervised learning groups similar data points.
+
+---
+
+## Project Overview
+
+The repository includes two clustering experiments:
+
+1. **2D Synthetic Data Clustering**
+2. **Fitness Tracker Behaviour Clustering**
+
+Both examples use `scikit-learn`'s KMeans algorithm along with NumPy and Matplotlib for data generation and visualisation.
+
+---
+
+## 1. 2D Synthetic Data Clustering
+
+### Description
+This example generates a simple two-class dataset in a 2D space using Gaussian noise around predefined cluster centres. The goal is to evaluate how well K-Means can recover the original structure.
+
+### Key Steps
+- Generate two synthetic clusters with different sample sizes
+- Add Gaussian noise to create realistic data spread
+- Apply K-Means clustering with `k = 2`
+- Compare predicted clusters with true labels
+- Calculate clustering accuracy
+- Visualise results and cluster centroids
+
+### Output
+- Scatter plot of original dataset
+- Scatter plot of K-Means clustering results with centroids
+- Accuracy score comparing predicted vs actual labels
+
+---
+
+## 2. Fitness Tracker Clustering
+
+### Description
+This example simulates user fitness data based on:
+- Daily steps
+- Hours of sleep
+
+Three behavioural groups are generated to represent different lifestyle patterns. K-Means is then used to identify these hidden patterns.
+
+### Key Steps
+- Generate synthetic user data for 3 activity groups
+- Combine step count and sleep data into a dataset
+- Apply K-Means clustering with `k = 3`
+- Visualise actual vs clustered data
+- Analyse cluster characteristics using averages
+
+### Cluster Types (Simulated)
+- **Active users**: High steps, high sleep consistency
+- **Moderately active users**: Medium activity and sleep
+- **Least active users**: Low steps and lower sleep duration
+
+### Output
+- Scatter plot of original grouped data
+- Scatter plot of K-Means clustering results
+- Summary statistics for each detected cluster
+
+---
+
+## Technologies Used
+
+- Python
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+---
+
+## Key Concepts Demonstrated
+
+- Unsupervised Machine Learning
+- K-Means Clustering
+- Data Simulation
+- Cluster Visualization
+- Feature Engineering (2D feature space)
+- Cluster Evaluation and Interpretation
+
+---
+
+## How to Run
+
+1. Install required libraries:
+   ```bash
+   pip install numpy matplotlib scikit-learn
