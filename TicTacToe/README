@@ -1,0 +1,49 @@
+# Tic Tac Toe (C# Windows Forms)
+
+A simple two-player Tic Tac Toe game built using C# Windows Forms. Players take turns placing X and O on a 3×3 grid until one player wins or the game ends in a draw.
+
+---
+
+## Core Features
+
+- Two-player turn-based gameplay (X and O)
+- Win detection for all possible winning combinations
+- Draw detection when the board is full
+- Score tracking for Player X, Player O, and draws
+- New game and full reset functionality
+
+---
+
+## OOP Concepts Used
+
+- **Encapsulation** – Game state (scores, turns, draw state) is managed using class-level variables
+- **Event-Driven Programming** – Button click events control all gameplay interactions
+- **Abstraction** – Game logic (win checking, reset, score updates) is separated into methods like `Score()` and `Reset()`
+- **Objects** – Each button acts as an object representing a game cell
+
+---
+
+## Key Methods
+
+- **btnTic_Click** – Handles player moves and alternates turns
+- **Score()** – Checks for win or draw conditions and updates scores
+- **Reset()** – Clears the board for a new game
+- **Enable_False()** – Disables the board when the game ends
+
+---
+
+## How to Run
+
+1. Open the project in Visual Studio
+2. Build and run the solution (F5)
+
+---
+
+## Tech Used
+
+- C#
+- Windows Forms (.NET)
+- Event-driven programming
+- OOP principles
+
+---
