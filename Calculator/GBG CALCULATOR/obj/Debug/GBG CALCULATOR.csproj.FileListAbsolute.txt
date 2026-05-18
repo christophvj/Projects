@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\bin\Debug\GBG CALCULATOR.exe.config
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\bin\Debug\GBG CALCULATOR.exe
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\bin\Debug\GBG CALCULATOR.pdb
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\obj\Debug\GBG CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\obj\Debug\GBG_CALCULATOR.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\obj\Debug\GBG_CALCULATOR.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\obj\Debug\GBG CALCULATOR.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\obj\Debug\GBG CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\obj\Debug\GBG CALCULATOR.exe
+C:\Users\chris\OneDrive\Desktop\Calculator\GBG CALCULATOR\obj\Debug\GBG CALCULATOR.pdb
