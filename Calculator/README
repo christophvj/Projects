@@ -1,0 +1,20 @@
+# GBG Calculator
+
+A simple Windows Forms calculator built using C#.
+
+## Features
+- Basic arithmetic operations (+, −, ×, ÷)
+- Advanced functions (√, x², 1/x, %)
+- Decimal input support
+- Backspace, Clear Entry, and Full Clear options
+- Calculation history panel
+- Handles division by zero with error message
+- Dynamic display resizing for long numbers
+
+## How to Run
+1. Open the project in Visual Studio
+2. Build the solution
+3. Run the application (Start Debugging or F5)
+
+## Project Type
+- Windows Forms Application (.NET Framework / .NET)
